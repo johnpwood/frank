@@ -1,0 +1,15 @@
+{
+  "name": "frank",
+  "version": "1.0.0",
+  "description": "A text editor",
+  "main": "src/main/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:johnpwood/frank.git",
+  "author": "John Wood <johnpwoodiv@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
